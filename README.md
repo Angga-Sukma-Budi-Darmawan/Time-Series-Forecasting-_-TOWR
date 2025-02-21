@@ -38,8 +38,7 @@ Bagaimana kita dapat mengidentifikasi pola, tren, dan faktor-faktor yang memenga
 ## DATA UNDERSTANDING
 
 **Data Source**  
-The dataset used is TOWR stock prices from February 2021 to Early February 2025. The dataset are formatted in .csv (Comma-Separated Values) format. It is provided by the Purwadhika Data Science Class Academic Team and can be accessed through the following link:  
-[Dataset Link](https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK)
+The dataset used is TOWR stock prices from February 2021 to Early February 2025. The dataset are formatted in .csv (Comma-Separated Values) format.
 
 ---  
 
